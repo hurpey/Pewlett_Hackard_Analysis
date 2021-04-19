@@ -4,7 +4,9 @@ Pewlett Hackard Analysis
 The purpose of this analysis is to help prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age. To carry out this analysis, we will perform 3 main tasks as follows:
 
 	determine the number of retiring employees per title,
+
 	identify employees who are eligible to participate in a mentorship program, and 
+
 	write a report that summarizes the results of the analysis carried out.
 
 2.	Results
